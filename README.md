@@ -9,3 +9,4 @@
 sbartlett97/sbartlett97 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+![sbartlett97 on CodeWars](https://www.codewars.com/users/sbartlett97/badges/small "Code wars banner")
