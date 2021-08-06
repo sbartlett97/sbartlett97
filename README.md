@@ -13,5 +13,8 @@ You can click the Preview link to take a look at your changes.
       <strong>Profiles</strong>  
 </p>
 <p align="center">
-  <img alt="View my profile on CodeWars" src="https://www.codewars.com/users/sbartlett97/badges/small">
+      <a href="https://www.codewars.com/users/sbartlett97"><img alt="View my profile on CodeWars" src="https://www.codewars.com/users/sbartlett97/badges/small"></a>
+</p>
+<p align="center">
+<a href="https://stackoverflow.com/users/16446998/sbartlett97"><img src="https://stackoverflow.com/users/flair/16446998.png?theme=dark" width="208" height="58" alt="profile for SBartlett97 at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for SBartlett97 at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 </p>
