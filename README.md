@@ -2,7 +2,7 @@
 <p>I'm a passionate problem solver and lifelong tinkerer who loves exploring the intersection of creativity and technology. Whether it's optimizing machine learning workflows, fine-tuning AI models, or diving into new programming challenges, I thrive on thinking outside the box to tackle tough problems.
 
 💡 I believe that curiosity drives innovation, and I'm always looking for opportunities to experiment, learn, and grow. Feel free to reach out to me!</p>
-<h2>🚀 Languages and Tools I Use (Or have used at some point 👀😅)</h2>
+<h2>🚀 Languages and Tools I Use (Or have used at some point)</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="42" height="42" /></a>
