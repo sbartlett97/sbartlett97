@@ -49,4 +49,8 @@
 
 ---
 
+I use [vast.ai](https://cloud.vast.ai/?ref_id=409503) for my compute
+
+---
+
 💡 Chronic ideas person · 📐 BSc Software Engineering, University of Portsmouth · 📬 [sam.bartlett858@gmail.com](mailto:sam.bartlett858@gmail.com)
