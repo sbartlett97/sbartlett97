@@ -47,21 +47,6 @@ Increasingly:
 
 `Local LLMs` · `VLMs` · `MoE` · `RAG` · `Agentic AI` · `Model evaluation`
 
----
-
-### Experience
-
-**FYLD — Senior AI Engineer**  
-Technical owner for 7 customer-facing, revenue-critical production agents. I work across agent architecture, reliability, evaluation and performance, while influencing a small engineering group through technical leadership, mentoring and hiring. Recent work reduced agent p50 latency from 60+ seconds to around 20 seconds and daily errors from roughly 400–600 to around 5.
-
-**Searchlight Cyber — Engineering Manager, AI**  
-Led a small AI team while remaining hands-on, owning AI architecture and delivery across LLM/agent workflows, NLP, computer vision and large-scale data enrichment. Built production AI workflows over 400M+ Elasticsearch records and worked across translation, classification, sentiment, embeddings and 30+ vision models.
-
-**Harwin — Software Developer**  
-Built PLC automation and computer-vision inspection workflows for high-precision manufacturing.
-
----
-
 ### A little about me
 
 I'm a BSc Software Engineering graduate from the University of Portsmouth. My career has moved from software engineering and industrial automation into computer vision, ML engineering and production AI systems.
